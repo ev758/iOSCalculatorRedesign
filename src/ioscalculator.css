@@ -1,0 +1,44 @@
+.root {
+    -fx-background-color: black;
+    -fx-font-size: 25pt;
+}
+
+.more-label {
+    -fx-text-fill: #68CDF8;
+    -fx-font-size: 10pt;
+}
+
+.light-mode-button {
+    -fx-font-size: 10pt;
+}
+
+.number-label {
+    -fx-text-fill: white;
+}
+
+.gray-circle-button {
+    -fx-text-fill: black;
+    -fx-background-color: #C4C4C4;
+    -fx-background-radius: 30;
+    -fx-font-size: 15pt;
+    -fx-pref-width: 40pt;
+    -fx-pref-height: 40pt;
+}
+
+.dark-gray-circle-button {
+    -fx-text-fill: white;
+    -fx-background-color: #767171;
+    -fx-background-radius: 30;
+    -fx-font-size: 20pt;
+    -fx-pref-width: 40pt;
+    -fx-pref-height: 40pt;
+}
+
+.orange-circle-button {
+    -fx-text-fill: white;
+    -fx-background-color: #FF8A00;
+    -fx-background-radius: 30;
+    -fx-font-size: 15pt;
+    -fx-pref-width: 40pt;
+    -fx-pref-height: 40pt;
+}
